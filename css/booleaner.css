@@ -62,6 +62,10 @@ h3{
     color: rgb(145, 149, 149);
 }
 
+table{
+    border-collapse: collapse;
+}
+
 #img1{
     width: 270px;
     height: 200px;
